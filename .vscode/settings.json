@@ -1,0 +1,5 @@
+{
+    "remote.SSH.serverInstallPath": {
+        "connect.westb.seetacloud.com": "/root/vscode-server-linux-x64"
+    }
+}
